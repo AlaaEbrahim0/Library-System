@@ -1,5 +1,8 @@
 # Library-System
-This a simple library which was made by me and 4 of my colleagues for a database project in university
+This a simple library which was made by me and 4 of my colleagues for a database project in university using 
+* C# (Windows Forms)
+* SQL Server
+* Power Designer
 
 ## The sysem includes the following functionalities: 
 
